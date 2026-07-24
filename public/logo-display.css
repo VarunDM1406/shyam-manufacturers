@@ -1,0 +1,3 @@
+/* The supplied logo includes generous canvas around the mark. Crop it only at display time. */
+.brand-image{overflow:hidden;background:var(--paper);justify-content:center}.brand-image img{width:145%;max-width:none;max-height:none;transform:scale(1.08)}
+@media(max-width:620px){.brand-image{width:82px;height:58px}.brand-image img{width:150%}}
