@@ -57,7 +57,7 @@ const designPages = [
   ["strong-coffee", "Strong Coffee", "Premium cup design"],
   ["teacafe", "Teacafe", "150 ml · 180 GSM"],
   ["coffee-time", "Coffee Time", "Premium cup design"],
-  ["tea-break", "Tea Break", "150 ml · 180 GSM"],
+  ["tea-break", "Tea Break", "200 ml · 180 GSM"],
   ["coffee-break-red", "Coffee Break", "180 / 210 GSM"],
   ["coffee-break-gold", "Coffee Break", "200 ml · 180 GSM"],
   ["juice", "Juice", "Premium cup design"],
